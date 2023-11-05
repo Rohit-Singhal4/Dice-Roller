@@ -1,16 +1,24 @@
-# roll_dice
+# Dice Roll Mobile Application
 
-A new Flutter project.
+This project was built as a learning project for Flutter. 
+It uses basic Flutter concepts and syntax to create a UI with a roll dice button and an image of the dice.
+
+It introduces topics such as:
+- Widgets (MaterialApp, Scaffold, Decorations, Containers, Text, Images, Buttons, etc)
+- Styling (backgroundColor, fontSize, padding, textStyle, etc)
+- States (Stateless vs Stateful)
+
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To build the application, you need the following:
+- Flutter (https://docs.flutter.dev/get-started/install)
+- Emulator: Android Studio or Xcode
+- IDE
 
-A few resources to get you started if this is your first Flutter project:
+Once you have successfully run 'flutter doctor' and checked all dependencies, clone the repository onto your local machine. 
+Double-check the project structure, specifically the path to the assets folder for the dice_roller.dart file.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### END
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
