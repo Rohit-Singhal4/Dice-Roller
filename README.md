@@ -19,6 +19,8 @@ To build the application, you need the following:
 Once you have successfully run 'flutter doctor' and checked all dependencies, clone the repository onto your local machine. 
 Double-check the project structure, specifically the path to the assets folder for the dice_roller.dart file.
 
+You should now be able to successfully build and run the application.
+
 ### END
 
 
