@@ -8,7 +8,6 @@ It introduces topics such as:
 - Styling (backgroundColor, fontSize, padding, textStyle, etc)
 - States (Stateless vs Stateful)
 
-
 ## Getting Started
 
 To build the application, you need the following:
@@ -20,7 +19,5 @@ Once you have successfully run 'flutter doctor' and checked all dependencies, cl
 Double-check the project structure, specifically the path to the assets folder for the dice_roller.dart file.
 
 You should now be able to successfully build and run the application.
-
-### END
 
 
